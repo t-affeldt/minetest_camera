@@ -1,0 +1,9 @@
+{
+    "type": "MOD",
+    "title": "Smooth Camera Overhaul",
+    "dev_state": "WIP",
+    "tags": ["environment", "player_effects"],
+    "repo": "https://github.com/t-affeldt/minetest_camera",
+    "issue_tracker": "https://github.com/t-affeldt/minetest_camera/issues",
+    "license": "MIT"
+}
